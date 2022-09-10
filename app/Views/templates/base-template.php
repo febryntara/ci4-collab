@@ -10,7 +10,7 @@
 </head>
 
 <body>
-
+  <?= $this->renderSection("body") ?>
 </body>
 
 </html>
