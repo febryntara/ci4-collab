@@ -10,6 +10,7 @@
 </head>
 
 <body>
+  <h2>Something</h2>
   <?= $this->renderSection("body") ?>
 </body>
 
