@@ -10,9 +10,10 @@
 </head>
 
 <body>
-    <h2>Something</h2>
-    <h1>Coba new</h1>
-    <?= $this->renderSection("body") ?>
+  <h2>Something</h2>
+   <h1>Coba new</h1>
+  <h3>gangga</h3>
+  <?= $this->renderSection("body") ?>
 </body>
 
 </html>
